@@ -2,6 +2,9 @@
 Bharat Data Science Internship
 <br>
 ###### Author - Harshitha S
+
+To perform any two tasks out of three
+
 ### SMS Classifier
 Developed a text classification model to classify SMS as either spam or non-spam using data science techniques in Python.
 
